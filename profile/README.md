@@ -2,7 +2,7 @@
 
 Our goal is to provide a highly scalable, flexible, and secure environment for developers and businesses to build modern, language-agnostic, distributed applications.
 
-☄️ What is Goletan?
+## ☄️ What is Goletan?
 
 Goletan is a forward-thinking framework that simplifies the creation and management of distributed systems. By breaking down complex software into smaller, independent services (called Nemetons), Goletan makes your applications more maintainable, scalable, and secure.
 
@@ -18,7 +18,7 @@ Goletan is built to provide:
 
 By offering this rich set of features, Goletan empowers developers to create distributed applications easily, whether you're starting fresh, migrating legacy systems, or scaling existing microservices architectures.
 
-## 🌬 Goletan Kernel
+## 🪨 Goletan Kernel
 
 At the heart of Goletan is the Kernel – a powerful engine responsible for orchestrating the entire system. It ensures that all services (Nemetons) are connected, secure, and running efficiently.
 
@@ -27,7 +27,7 @@ The Goletan Kernel handles:
 - Managing communication protocols
 - Ensuring secure connections via mTLS/TLS
 - Enabling resilient and observable service execution
-- Supporting low-level customization through WASM plugins
+- Supporting low-level customization through plugins
 
 ## ✨ Nemetons
 
@@ -35,6 +35,6 @@ Nemetons are the building blocks of Goletan. They represent the individual servi
 
 ## 🛸 Contacts
 
-Company: [https://goletan.com](goletan.com)
-Framework: [https://goletan.tech](goletan.tech)
+Company: [https://goletan.com](goletan.com)<br />
+Framework: [https://goletan.tech](goletan.tech)<br />
 Email: <contact@goletan.com>
